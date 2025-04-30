@@ -1,0 +1,21 @@
+Type,Items,Price,InStock
+Fruit,Apple,100,Yes
+Fruit,Orange,200,Yes
+Fruit,Grapes,300,Yes
+Fruit,Peach,350,Yes
+Fruit,Banana,60,Yes
+Fruit,Papaya,50,Yes
+Fruit,Pine Apple,100,Yes
+Fruit,Pomogranate,250,No
+Fruit,Dragon Fruit,400,No
+Fruit,Water Melon,150,No
+Vegetable,Potato,40,Yes
+Vegetable,Onion,30,Yes
+Vegetable,Cauliflower,40,Yes
+Vegetable,Cabbage,50,Yes
+Vegetable,Cucumber,70,Yes
+Vegetable,Spinich,30,Yes
+Vegetable,Garlic,150,Yes
+Vegetable,Ginger,160,No
+Vegetable,Beans,80,Yes
+Vegetable,Capcicum,60,Yes
